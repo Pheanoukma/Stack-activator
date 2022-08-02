@@ -16,7 +16,6 @@ ECHO                                        |
 ECHO         =_= Options : 1,2  
 ECHO                                        |
 ECHO ----------------------------------------
-ECHO 
 ECHO 1. ACTIVATE 
 ECHO 2. EXIT 
 ECHO 3. GITHUB PAGE!
