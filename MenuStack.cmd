@@ -1,12 +1,12 @@
 ECHO OFF  
 CLS
 :MENU 
-ECHO----------------------------------------
+ECHO ----------------------------------------
 ECHO                                        |
 ECHO        Press 1 to activate  
 ECHO    Control and command activator 
 ECHO                                        |
-ECHO-----------------------------------------
+ECHO -----------------------------------------
 ECHO                                        |
 ECHO                                        |
 ECHO          Press 2 to Exit 
@@ -15,7 +15,7 @@ ECHO                                        |
 ECHO                                        | 
 ECHO         =_= Options : 1,2  
 ECHO                                        |
-ECHO----------------------------------------
+ECHO ----------------------------------------
 ECHO 
 ECHO 1. ACTIVATE 
 ECHO 2. EXIT 
